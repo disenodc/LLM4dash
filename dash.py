@@ -16,7 +16,6 @@ client = OpenAI(
 )
 
 
-
 # Page configuration
 st.set_page_config(
     page_title="LLM4Dash | AI-Powered Vis Dashboard",
