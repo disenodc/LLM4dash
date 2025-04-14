@@ -3,7 +3,7 @@ by BCS Dario Ceballos
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15209909.svg)](https://doi.org/10.5281/zenodo.15209909)    
 [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://llm4dash.streamlit.app)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/disenodc/LLM4dash/blob/main/LICENSE.md))
 
 A Streamlit-based dashboard that uses LLMs (GPT-4) to automate data visualization recommendations.
 
