@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Dario"
+  given-names: "Ceballos"
+  orcid: "https://orcid.org/0009-0002-9207-7023"
+title: "LLM4DASH"
+version: 1.0.0
+doi: 10.5281/zenodo.15209909 
+date-released: 2025-04-14
+url: "https://github.com/disenodc/LLM4dash"
